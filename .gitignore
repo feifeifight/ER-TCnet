@@ -1,0 +1,11 @@
+__pycache__
+*/__pycache__
+/logs/
+/eval_15-47-24/
+/eval_vis_results/
+/experiments_out/
+configs/hydra/cluster.yaml
+/renders/
+/.claude/
+/.resume_info.pth
+/scores.txt
